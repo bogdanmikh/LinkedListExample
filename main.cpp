@@ -12,7 +12,6 @@ int main() {
     list.pushBack(20);
     list.pushBack(1);
     list.pushFront(5);
-    list.pushFront(25);
     list.erase(1);
 
     list.sort();
